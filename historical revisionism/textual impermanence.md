@@ -46,3 +46,31 @@ Maybe I'm more interested in containers as a symbol to incorporate into later wo
 I think there are often interesting relationships between the container and the contents. Like how the container can stand **to represent the contents**, but not always the reverse. Or perhaps the idea of synecdoche in general. 
 
 I also like the idea of an empty container, but I'm not if my interest in trying to be subversive or nihilistic. I mean, I'm not sure if I want to deceive people by **exploiting their expectation for a container to have relevant and appropriate contents**, or if I am expressing a perpetual dissatisfaction with discovering new containers in a descending chain, or that containers on different scopes may contradict one another. I.E. that it is hopeless (well... maybe not hopeless, but never-ending) to explore a chain of containers because you will never reach an end. Part of me finds this idea exciting, though (and this is perhaps how it ties into my interest in horizontality and the internet). Certainly the first idea is more interesting.
+
+## Steganography
+There's something interesting about "the art and science of encoding hidden messages in such a way that no one, apart from the sender and intended recipient, suspects the existence the message." 
+> *"It is a form of security through obscurity"*
+> *"The advantage of steganography over cryptography alone is that the intended secret message does not attract attention to itself as an object of scrutiny."*
+- A little more about containers... If the container can veil the contents... 
+
+## Ok let's get to some practical planning
+#### About the left-align/center-align revisions
+*What would this look like?*
+Fuck it, let's just start building!
+#### First Draft
+- Ok looking good! In its current state, it is a toggle. On first load, the text "Left-aligned text" is displayed from the DOM. Immediately, Javascript appends a new `<p>` "is easier to edit than center-aligned text". The start of the appended paragraph is aligned correctly to the end of the first paragraph. When clicked, the body text switches from "Left-align text" to "Center-aligned text," and it is indeed center-aligned. Again, immediately Javascript appends a new `<p>` "is harder to edit than left-aligned text"
+- I think maybe I can drop the comparison, so that it says "is easier to edit." and "is harder to edit."
+- By mistake, initially both sentences said they were "easier" than the other. I might actually enjoy this contradiction.
+- Something interesting might happen if instead of _replacing_ the  last sentence, the new one was appended.
+- RE: fonts... Maybe something with serifs? Referencing an older document? I could have the initial be serif and the appendage be sans serif.
+- One thing I do like about this is it that the initial text will get highlighted if the user toggles fast enough. Maybe it should be highlighted from the start? Maybe it should fade in?
+#### Second Draft
+
+#### Print Sketches
+- Experimenting with showing the bounding boxes
+- Maybe this should be a video that documents editing the text without editing the initial text.
+- Should this be accompanied by a manifesto championing center-aligned text. That could be really funny. 
+- I'm thinking a three-column presentation: 1 for the changing/appending text, 1 for a visual presentation of the containers (maybe a live DOM, maybe something that relates it to steganography or radio imaging that reveals paintings beneath paintings), and 1 for a written manifesto championing center-aligned center (or maybe left-aligned. yet to be decided).
+- One way or another, though, it's clear this needs to be more than a webpage. It's not really interesting in this form, and it doesn't really make any sense.
+- One thing to figure out is whether I am in favor of changing texts or against... Maybe I don't have to decide. Maybe I can just make an observation/point out an exploit that center-aligned text is an added layer of defense. Like, bringing a tool to the people so they may use it in any way they see fit. All the same, exposing it to "bad people" and people at the top of power systems. Luckily, the idea is so fucking stupid that they would never even try.
+- This *is* sort of the same vain of Hito's "How Not To Be Seen: A Fucking Didactic Educational .MOV File"—I think.. I haven't seen it yet. **Maybe it would be good to have the left-align/center-align argument be one piece in a larger body of work of tools to aid/disrupt the impermanence of text.**
