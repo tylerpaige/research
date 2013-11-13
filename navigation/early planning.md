@@ -19,3 +19,13 @@
 - Is this about the degradation of information? Is this about nihilism? 
 - I know a lot of things I'm interested in, but I'm not sure I have any thoughts on them. 
 - Also I feel like every time I get on a roll like this, someone interrupts me. I need to work in my bedroom.
+
+## Pasted from: "Making the web make less sense"
+- nav bars
+- dropdown tabs
+- INCORRECT/IMPROPER PAGINATION http://andytaylor.me/2013/04/02/the-implied-elements-of-pagination/
+> "Pagination is such a strong design pattern that, when you remove detail, the user’s brain fills it in." ruining pattern recognition/disrupting cognition
+↓↓↓
+There's a lot of background work done on relating Dadaist principles to the internet. I keep forgetting I've already done some work relating Kierkegaard and Sartre to the internet. 
+
+Maybe this type of "making less sense" could be related to methods of taking down power systems/hierarchical power of information systems.
